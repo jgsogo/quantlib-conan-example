@@ -1,0 +1,6 @@
+[requires]
+QuantLib/1.9@jgsogo/ci
+
+[generators]
+cmake
+
